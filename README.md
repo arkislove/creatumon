@@ -13,77 +13,222 @@
 
 ---
 
-## Mod List
-### 🛠 Core Mods
-- NeoForge & Forge Dependencies
-- Architectury API
-- Curios API
-- Patchouli
-- Bookshelf
+Below is the complete list of additional mods included in the **Creatumon Modpack** along with their respective authors.
 
-### 🌀 Performance & QoL
-- Sodium + Embeddium
-- Lithium
-- Flywheel
-- Reese’s Sodium Options
-- Better Compatibility Checker
-- Just Enough Items (JEI)
-- Waystones
-- JourneyMap
-- Mouse Tweaks
-- KleeSlabs
-- AppleSkin
-- Simple Voice Chat
-- Controlling
-
-### ⚙ Create Mods & Add-ons
-- Create
-- Create Crafts & Additions
-- Create Jetpack
-- Create Ultimate Factory
-- Create Sound of Steam
-- Create Confectionery
-- Create Gear
-- Create: Enchantment Industry
-- Create Ironworks
-- Create Connected
-- Create Bitterballen
-- Create: Trading Floor
-- Create Waystones Recipes
-- Create Oxidized
-- Create: Design n' Decor
-
-### 🥗 Farming & Cooking Mods
-- Farmer’s Delight
-- FastFood Delight
-- Expanded Delight
-- Egg Delight
-- Ocean’s Delight
-- Chef’s Delight
-- Pizza Delight
-- Cobblemon Central Kitchen
-- Cobblemon Seeds Delight
-
-### ⚡ Cobblemon & Add-ons
-- Cobblemon
-- Cobblemon Poképedia
-- Cobblemon TM
-- Cobblemon Extra Structures
-- Cobblemon Confirm Let Go
-- Cobblemon Fight or Flight
-- Cobblemon PlayerXP
-- Cobblemon Capture XP
-- Cobblemon Shiny Days
-- Cobblemon Parts - Pokeball Lids
-- Cobblemon Mega Showdown
-- Cobblemon SafePastures
-- Cobblemon Spawn Notifications
-- Cobblemon Box Link
-
-### 🏰 Exploration & Structures
-- Repurposed Structures
-- Create Rustic Structures
-- Pollution of Create
-- Pollution of the Realms
-- Lootr
-- Vampirism
+- **Toast Control** (by Shadows_of_Fire)
+- **Jade Addons (Neo/Forge)** (by Snownee)
+- **CobbleDollars [Cobblemon Addon]** (by Harmex)
+- **Jade 🔍** (by Snownee)
+- **Placebo** (by Shadows_of_Fire)
+- **Create Contraption Terminals** (by tom54541)
+- **Cobblemon Pokenav** (by gatekeep06)
+- **Cobblemon Spawn Notification Discord Integration** (by Nekooooooooo)
+- **Create: Connected** (by Lysine)
+- **Ukraine Delight** (by TirSirFit)
+- **Create Jetpack** (by possible_triangle)
+- **Cobblemon Size Variations** (by Cudzer)
+- **Create: Garnished** (by DakotaPrideModding)
+- **Crabber's Delight** (by AlabasterLeking)
+- **Cobblemon: Weapons, Armors & Tools** (by Cobblemore_Studio)
+- **Petrol's Parts (Create add-on)** (by Petrolpark)
+- **Create: Cobblemon Balls Overhaul** (by xKcinnay)
+- **Rechiseled: Create** (by SuperMartijn642)
+- **Carry On** (by Tschipp)
+- **Barbeque's Delight [Forge/NeoForge]** (by lcy0x1)
+- **Create Compressed** (by nocubeyt)
+- **Cultural Delights** (by Baisylia)
+- **spark** (by Iucko)
+- **Vanilla Delight** (by Chaolux)
+- **Cuisine Delight** (by lcy0x1)
+- **Tomtaru's Cobblemon & Farmer's Delight Tweaks** (by Tomtaru)
+- **Create Waystones Recipes** (by Reggarf)
+- **FTB Quests (Forge)** (by FTB)
+- **Complementary Shaders – Reimagined** (by EminGT)
+- **Curios API (Forge/NeoForge)** (by TheIllusiveC4)
+- **Searchables** (by Jaredlll08)
+- **Cobblemon: Parting Gifts** (by Emperdog)
+- **Create: Ranged [Forge/Fabric/NeoForge]** (by robinfrt)
+- **Farmer's Delight Wearable Cooking Pot** (by vortzplays)
+- **Sodium/Embeddium Options API** (by Txni)
+- **Create: Pattern Schematics** (by CakeIsTastyDeveloper)
+- **Vegan Delight** (by ChriSimo)
+- **Fright's Delight** (by ChefMooon)
+- **Create: Sound of Steam** (by finchymcfinch)
+- **FancyMenu** (by Keksuccino)
+- **SimpleTMs: TMs and TRs for Cobblemon** (by dragomordor)
+- **Seed Delight** (by sieboldiiparthelia)
+- **Patchouli** (by Vazkii)
+- **Better Compatibility Checker** (by Gaz_)
+- **Create: Food** (by average_anime)
+- **Trail&Tales Delight** (by shuixingshow)
+- **Sophisticated Storage** (by P3pp3rF1y)
+- **Create Encased** (by iglee42)
+- **Berries & Cherries Delight** (by jmods)
+- **Create Stuff 'N Additions** (by Furti_Two)
+- **Stitch (formerly Athena)** (by CodexAdrian)
+- **Forge Config API Port** (by Fuzs)
+- **Create Railways Navigator** (by MrJulsen)
+- **AppleSkin** (by squeek502)
+- **KleeSlabs** (by BlayTheNinth)
+- **Create: Dreams n' Desires** (by Luna)
+- **Lithium (Fabric/NeoForge)** (by JellySquid)
+- **Additional items for Cobblemon** (by Meebuud)
+- **Cupboard** (by someaddon)
+- **Melody** (by Keksuccino)
+- **Create: Copycats+** (by Lysine)
+- **Extra Delight** (by Lance5057)
+- **Sodium** (by JellySquid)
+- **Cobblemon Shiny Days** (by Shadymitsu)
+- **Cobblemon: SafePastures** (by chadlymasterson)
+- **Relics** (by SSKirillSS)
+- **TofuCraftReload** (by SyameimaruZheng)
+- **FTB Teams (Forge)** (by FTB)
+- **CobbleBadges [Cobblemon Addon]** (by Harmex)
+- **Cobblemon Move Inspector** (by Starlotte_117)
+- **Vampire's Delight** (by GridExpert)
+- **Bookshelf** (by DarkhaxDev)
+- **Just Enough Effect Descriptions (JEED)** (by MehVahdJukaar)
+- **Create: New Beginnings** (by Kessatsu)
+- **Comforts (Fabric/Forge/Quilt)** (by TheIllusiveC4)
+- **Corpse x Curios API Compat** (by Project8gbDeRam)
+- **Cloth Config API (Fabric/Forge/NeoForge)** (by shedaniel)
+- **Create Picky Wheels** (by zeh_maria)
+- **Better Advancements** (by way2muchnoise)
+- **Artifacts** (by ochotonida)
+- **Cobblemore Lib** (by Cobblemore_Studio)
+- **Create: Escalated** (by rbasamoyai)
+- **Cobblemon Poképedia: Cobblepedia** (by StalckVinny)
+- **Ender's Delight** (by Furti_Two)
+- **Tofu Delight** (by baguchiMC)
+- **Create Confectionery** (by Furti_Two)
+- **Mysterious Mountain Lib** (by SyameimaruZheng)
+- **Sophisticated Core** (by P3pp3rF1y)
+- **Lootr (Forge & NeoForge)** (by Noobanidus)
+- **FTB Library (Forge)** (by FTB)
+- **Rustic Delight** (by PhantomWing)
+- **Corpse** (by henkelmax)
+- **Create Cobblemon Potion** (by BUGGZDMC)
+- **Sophisticated Backpacks Create Integration** (by P3pp3rF1y)
+- **Vital Delight** (by praizazdd)
+- **Tom's Simple Storage Mod** (by tom54541)
+- **Rechiseled** (by SuperMartijn642)
+- **Create Dough Compat (CDC) [MOD ver.]** (by SkellaTex)
+- **Farmer's Delight** (by vectorwing)
+- **Expanded Delight** (by ianm1647)
+- **Ocean's Delight** (by scouter567)
+- **Repurposed Structures (Neoforge/Forge)** (by telepathicgrunt)
+- **KubeJS** (by LatvianModder)
+- **Simple Voice Chat** (by henkelmax)
+- **My Nether's Delight** (by soytutta)
+- **ModernFix** (by embeddedt)
+- **Gensokyo Delight ~ Youkai's Homecoming** (by sieboldiiparthelia)
+- **NetherPortalFix** (by BlayTheNinth)
+- **Create: Structures Arise** (by SmartStreamLabs)
+- **Display Delight** (by jkvin114)
+- **Clumps** (by Jaredlll08)
+- **Enchantment Descriptions** (by DarkhaxDev)
+- **Pet Your Cobblemon** (by SwordEnd)
+- **Create: Ultimate Factory [Forge/Fabric/NeoForge]** (by robinfrt)
+- **Egg Delight** (by NotRoss)
+- **Reese's Sodium Options** (by FlashyReese)
+- **Potted Delight** (by anweisen)
+- **Cobblemon Integrations** (by Arcaryx)
+- **Create: Oxidized** (by pyzpre)
+- **Iris Shaders** (by coderbot)
+- **Create: Gear** (by Aidenboss434_OFFICIAL)
+- **Cobblemon Box Link** (by Emperdog)
+- **More Delight (Forge & NeoForge)** (by axperty)
+- **Just Zoom** (by Keksuccino)
+- **Cobblemon Spawn Notifications** (by TimInc)
+- **Create Crafts & Additions** (by MRHminer)
+- **Sodium/Embeddium Dynamic Lights** (by Txni)
+- **Waystones** (by BlayTheNinth)
+- **Ube's Delight** (by ChefMooon)
+- **Compat Delight** (by FixerLink1)
+- **Create: Dragons Plus** (by DragonsPlus)
+- **Just Enough Professions (JEP)** (by Mrbysco)
+- **Create Enchantment Industry Plus** (by tiestoettoet08)
+- **Cobblemon Capture XP** (by TimInc)
+- **Create: Bells & Whistles** (by syslev)
+- **Cobblemon Parts–Pokeball Lids** (by witherlord00)
+- **Create: Rustic Structures [Forge/Fabric/NeoForge]** (by robinfrt)
+- **Pizza Delight** (by Tiviacz1337)
+- **Balm** (by BlayTheNinth)
+- **Create: Quality Of Life** (by iglee42)
+- **Not Enough Pots** (by anweisen)
+- **Chipped** (by terrariumearth)
+- **Accessories** (by Blodhgarm)
+- **Arbitrary Delight** (by Ri0t69)
+- **Create: Let The Adventure Begin** (by Not_Juno)
+- **Create: Central Kitchen** (by DragonsPlus)
+- **Create: Ironworks [Forge/Fabric/NeoForge]** (by robinfrt)
+- **Polymorph (Fabric/Forge/Quilt)** (by TheIllusiveC4)
+- **Create: Crafts & (More) Additions [Forge/Fabric]** (by robinfrt)
+- **Prickle** (by DarkhaxDev)
+- **Konkrete [Forge/NeoForge]** (by Keksuccino)
+- **Create: Enchantment Industry** (by DragonsPlus)
+- **ForgeEndertech** (by EnderLanky)
+- **Storage Delight (Forge & NeoForge)** (by axperty)
+- **Cobblemon: Mega Showdown** (by yajatkaul)
+- **Controlling** (by Jaredlll08)
+- **Create: Deez Nuts** (by soulvalley11)
+- **Create: Better Motors** (by Reggarf)
+- **JourneyMap** (by techbrew)
+- **Create: Pillager Arise** (by SmartStreamLabs)
+- **End's Delight** (by foggyhillside)
+- **Mouse Tweaks** (by YaLTeR)
+- **FerriteCore ((Neo)Forge)** (by malte0811)
+- **Create: Easy Structures** (by M_Productions)
+- **Create: Bitterballen** (by pyzpre)
+- **Chef's Delight [Forge] – Farmer's Delight Villagers** (by redstone3game)
+- **SuperMartijn642's Core Lib** (by SuperMartijn642)
+- **Petrolpark Library** (by Petrolpark)
+- **Cobblemon Fight or Flight Reborn** (by Vaniron)
+- **Artifacts Crafting** (by Mett3z)
+- **Create : Misc & Things** (by To0pa)
+- **Create: Winery [Forge/NeoForge]** (by robinfrt)
+- **Just Enough Resources (JER)** (by way2muchnoise)
+- **Create: Trading Floor** (by CakeIsTastyDeveloper)
+- **Resourceful Lib** (by ThatGravyBoat)
+- **Cobblemon Utility+ (IVs, EVs, & More)** (by Brendon3)
+- **Vampirism – Become a vampire!** (by maxanier)
+- **Create Better FPS** (by moepus)
+- **Kotlin for Forge** (by thedarkcolour)
+- **Just Enough Items (JEI)** (by mezz)
+- **Create: Design n' Decor** (by Luna)
+- **OctoLib** (by SSKirillSS)
+- **Create: Power Loader** (by Lysine)
+- **Crate Delight (Forge & NeoForge)** (by axperty)
+- **Berry Pouch [Cobblemon]** (by Thirace)
+- **oωo (owo-lib)** (by gliscowo)
+- **SuperMartijn642's Config Lib** (by SuperMartijn642)
+- **Ribbe Delight (A Farmer's Delight Add-on)** (by StudioCreations)
+- **Create** (by simibubi)
+- **Cobblemon Interface** (by StalckVinny)
+- **Cobblemon** (by CobbledStudios)
+- **Aqua Delight** (by TirSirFit)
+- **Easter's Delight** (by PhantomWing)
+- **Fruits Delight** (by lcy0x1)
+- **Pineapple Delight** (by AmarokIce)
+- **Fusion (Connected Textures)** (by SuperMartijn642)
+- **FastFood Delight Unofficial** (by hakujoucho)
+- **Cobblemon TM [NeoForge]** (by JeSuisMister)
+- **Create Factory Ball** (by Kokoio)
+- **Cobblemon: Extra Structures** (by Roi_Pasteque)
+- **Cobblemon: PlayerXP** (by chadlymasterson)
+- **[Cobblemon] BadgeBox** (by Akiosys)
+- **Rhino** (by LatvianModder)
+- **Dumplings Delight Rewrapped** (by Joshcraft2002)
+- **Iris & Oculus Flywheel Compat** (by leon_mout)
+- **Create: Liquid Fuel** (by Forsteri123)
+- **Create: Framed** (by DakotaPrideModding)
+- **Repurposed Structures – Farmer's Delight Compat Mod** (by telepathicgrunt)
+- **Relics: Artifacts Compat** (by SSKirillSS)
+- **Cobblemon: Create Industries (3D Production Models)** (by Cobblemore_Studio)
+- **Sophisticated Storage Create Integration** (by P3pp3rF1y)
+- **Bagus Lib** (by baguchiMC)
+- **Ponder for KubeJS** (by Lytho)
+- **Corn Delight[Forge]** (by SyameimaruZheng)
+- **Create: More Features** (by daniil_white)
+- **Sophisticated Backpacks** (by P3pp3rF1y)
+- **Cobblemon Confirm Let Go** (by TimInc)
